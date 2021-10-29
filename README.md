@@ -12,6 +12,8 @@ The steps are :
 6. From downloaded csv, create e sub-sheet with the data of Madhya Pradesh and prepare a spreadsheet
 7. Attach the sheets prepared in step 5 and step 6 and email it to two email ids
 
+<br><br><b>Note</b> : Sender and recipient information are extracted from <b>task.robot</b> file.<br><br>
+
 
 
 Used programming language : Python 3<br>
