@@ -14,5 +14,5 @@ The steps are :
 
 
 
-Used programming language : Python 3\n
+Used programming language : Python 3<br>
 Used libraries : selenium, pandas, glob, os, email, smtplib, ssl
